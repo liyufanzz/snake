@@ -1,0 +1,3 @@
+1. 使用W，A，S，D键或up，down，left，right键控制方向
+2. 使用space键全屏与最小化切换
+3. 使用ESC键退出
